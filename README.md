@@ -196,16 +196,16 @@ const columns = getColumnConfig(["序号", "状态", ["名称", { minWidth: 200 
 
 完整文档请访问：**[https://vue-admin-kit.jiang.in/](https://vue-admin-kit.jiang.in/)**
 
-- [快速开始](https://vue-admin-kit.jiang.in/guide/getting-started)
-- [配置驱动](https://vue-admin-kit.jiang.in/guide/config-driven)
-- [字典管理](https://vue-admin-kit.jiang.in/guide/dict-management)
-- [表单控件](https://vue-admin-kit.jiang.in/components/form-controls)
-- [API 参考](https://vue-admin-kit.jiang.in/api/types)
+- [快速开始](https://vue-admin-kit.jiang.in/guide/getting-started.html)
+- [配置驱动](https://vue-admin-kit.jiang.in/guide/config-driven.html)
+- [字典管理](https://vue-admin-kit.jiang.in/guide/dict-management.html)
+- [表单控件](https://vue-admin-kit.jiang.in/components/form-controls.html)
+- [API 参考](https://vue-admin-kit.jiang.in/api/types.html)
 
 ## 🔗 相关链接
 
 - [GitHub](https://github.com/nicekate/vue-admin-kit)
-- [更新日志](https://vue-admin-kit.jiang.in/changelog)
+- [更新日志](https://vue-admin-kit.jiang.in/changelog.html)
 - [Element Plus](https://element-plus.org/)
 - [VXE-Table](https://vxetable.cn/)
 

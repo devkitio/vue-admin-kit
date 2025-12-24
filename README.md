@@ -1,9 +1,15 @@
-# vue-admin-kit
+<p align="center">
+  <img src="https://vue-admin-kit.jiang.in/logo.png" width="200" height="200" alt="vue-admin-kit logo">
+</p>
 
-[![npm version](https://img.shields.io/npm/v/vue-admin-kit.svg)](https://www.npmjs.com/package/vue-admin-kit)
-[![license](https://img.shields.io/npm/l/vue-admin-kit.svg)](https://github.com/nicekate/vue-admin-kit/blob/main/LICENSE)
+<h1 align="center">vue-admin-kit</h1>
 
-企业级 Vue 3 后台管理组件工具套件，基于 Element Plus 和 VXE-Table 构建，提供配置驱动的 CRUD 页面模板。
+<p align="center">
+  <a href="https://www.npmjs.com/package/vue-admin-kit"><img src="https://img.shields.io/npm/v/vue-admin-kit.svg" alt="npm version"></a>
+  <a href="https://github.com/nicekate/vue-admin-kit/blob/main/LICENSE"><img src="https://img.shields.io/npm/l/vue-admin-kit.svg" alt="license"></a>
+</p>
+
+<p align="center">企业级 Vue 3 后台管理组件工具套件，基于 Element Plus 和 VXE-Table 构建，提供配置驱动的 CRUD 页面模板。</p>
 
 📖 **[在线文档](https://vue-admin-kit.jiang.in/)**
 
